@@ -8,7 +8,7 @@ function App() {
   <nav>
     <div className="navbar">
       <div className="logo">
-        <h2>Ranjit</h2>
+        <h2>Ranjit Chaudhary</h2>
       </div>
       <div className="details">
         <ul>
